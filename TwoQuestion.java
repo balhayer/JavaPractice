@@ -8,26 +8,28 @@ public class TwoQuestion{
 	String result;
 	
 	System.out.println("Question 1) Is it animal, vegetable, or mineral?");
-	questionOne = print.next();
+	questionOne = print.nextLine();
 	System.out.println("Question 2) Is it bigger than a breadbox?");
-	questionTwo = print.next();
-	
-	if(questionOne == "animal"){
-		if(questionTwo == "yes") result = "moose";
-		else if (questionTwo == "no") result = "squirrel";
-		else result = "KOI FISHHHHH";
+	questionTwo = print.nextLine();
+
+	if(questionOne.equals("animal")){
+		if(questionTwo.equals("yes")) result = "moose";
+		else if (questionTwo.equals("no")) result = "squirrel";
+		else result ="ERROR 1";
 	}
-	else if(questionOne == "vegetable"){
-		if(questionTwo == "yes") result = "Watermelon";
-		else if (questionTwo == "no") result = "carrot";
-		else result = "KOI FISHHHH";
+	else if(questionOne.equals("vegetable")){
+		if(questionTwo.equals("yes")) result = "Watermelon";
+		else if (questionTwo.equals("no")) result = "carrot";
+		else result = "Error 2";
 	}
-	else if(questionOne == "mineral"){
-		if(questionTwo == "yes") result = "Camaro";
-		else if(questionTwo == "no") result = "paper clip";
-		else result = "KOI FISHHH";
+	else if(questionOne.equals("mineral")){
+		if(questionTwo.equals("yes")) result = "Camaro";
+		else if(questionTwo.equals("no")) result = "paper clip";
+		else result = "Error 3";
 	}
-	else result = "KOI Error";
+	else {
+		result = "Error 4";
+	}
 	
 	System.out.println("You're thinking of a " + result);
 	System.out.println("I would ask you if I'm right, but I don't actually care.");
