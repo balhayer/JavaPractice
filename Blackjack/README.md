@@ -6,7 +6,7 @@ I maybe plan on fixing that section and maybe how the dealer draws the cards and
 * Random
 * Scanner
 * Do-While
-* if, else-if
+* If, else-if
 
 # Image
 ![](Blackjack.PNG)
