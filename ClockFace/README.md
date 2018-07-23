@@ -1,7 +1,8 @@
-# Clock Face
+# About
+A program that displays a simple clock with hands
 
-This program focuses on drawing Ovals, Strings, and Lines.
 
+# Quick Reference
 ```sh
 g.drawOval(x,y,w,h);
 g.drawString("String Here", x,y);
@@ -10,4 +11,10 @@ g.setFont(new Font("Calibri", Font.BOLD, ft. Size);
 g.setColor(Color.BLACK);
 ```
 
+# Focus
+* drawString
+* drawLine
+* setFont
+
+# Image
 ![](ClockFace.PNG)
