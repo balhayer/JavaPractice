@@ -16,3 +16,7 @@ After a few codes with just notepad++, I finally ended up using [IntelliJ IDEA](
 
 # Where i'm coding at
 I'm currently using a websiite, programmingbydoing, that gives projects and quick explanation of how java works [here](https://programmingbydoing.com/)
+
+# Sierpinski Triangle
+Here is a image of the Sierpinski Triangle project that I've created while learning Java. 
+![](SierpinskiTriangle/Sierpinski%20Triangle.PNG)
