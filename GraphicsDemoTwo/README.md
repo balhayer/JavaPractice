@@ -1,5 +1,5 @@
 # About
-A program that draws Arcs and the use of customized color
+A program that draws arcs and the use of customized color
 
 # Quick-Reference
 ```sh
