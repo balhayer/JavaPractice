@@ -1,6 +1,7 @@
 # About
 A quick program with premade String, activating only one of them by random.
 The options are:
+* It is certain
 * It is decidely so
 * Without a doubt
 * Yes - definitely
