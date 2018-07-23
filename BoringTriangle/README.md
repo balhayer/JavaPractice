@@ -1,4 +1,10 @@
-# Boring Triangle
-A program that focuses on creating a JFrame, a Canvas, and drawing a triangle.
+# About
+A simple program that display a colored triangle
 
+# Focus
+* JFrame
+* Canvas
+* Polygon
+
+# Image
 ![](BoringTriangle.PNG)
