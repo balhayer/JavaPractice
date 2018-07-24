@@ -3,6 +3,7 @@
 A folder consisting very basic java code
 
 ##  Quick project type reference
+[LATER INSERT LINK TO ALL THE PROJECT FOR QUICK ACCESS]
 * Keyboard Input
   * AskingQuestions
   * ForgetfulMachine
