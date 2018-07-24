@@ -1,18 +1,56 @@
 # JavaPractice
 
-A folder consisting very basic java code such as 
-  - if statements
-  - else if statements
-  - while loops 
-  - for loops
-  - switch loops
-  - do-while loops
-  - graphics
-  - functions
-  - etc.
-  
+A folder consisting very basic java code
+
+##  Quick project type reference
+[LATER INSERT LINK TO ALL THE PROJECT FOR QUICK ACCESS]
+* Keyboard Input
+  * AskingQuestions
+  * ForgetfulMachine
+  * BMIcalculator
+* If statements
+  * HowOldAreYou
+  * SpacingBoxing
+  * ModulusAnimationSymbols
+  * ModulusAnimation
+  * ModulusAnimationWorm
+* GUIs
+  * BoringWindow
+  * TwoQuestion
+  * FrameWithPanel
+  * QuickAdventure
+* Random Numbers
+  * Randomness
+  * MagicEight
+  * NumberGuessingGame
+  * ThreeCardMonte
+* While Loops
+  * EnterYourPin
+  * WhileGuessing
+  * Collatz Sequence
+* Graphics
+  * GraphicsDemo
+  * GraphicsDemoTwo
+  * GraphicsDemoThree
+  * ClockFace
+  * BoringTriangle
+  * RandomTriangles
+  * RandomRightTriangles
+  * SierpinskiTriangle
+  * Graphinglines
+  * ForestTrees
+  * ImageDemo
+  * MotivationPoster
+  * PolygonDemo
+* Functions
+  * PictureMenu
+  * FlickerPhrase
+  * DistanceFormula
+* Projects
+  * Blackjack
+
 # IDE
 After a few codes with just notepad++, I finally ended up using [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 
 # Where i'm coding at
-I'm currently using a websiite, programmingbydoing, that gives projects and quick explanation of how java works [here](https://programmingbydoing.com/)
+I'm currently using a website, programmingbydoing, that gives projects and quick explanation of how java works [here](https://programmingbydoing.com/)

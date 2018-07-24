@@ -1,5 +1,5 @@
 # About
-A program that display the Collaz Sequence with user given a value.
+A program that display the Collatz Sequence with user given a value.
 Collatz sequence is numbers relevant to the Collatz conjecture, which theorizes that any uses this algorithm will eventually be reduced to 1.
 
 If the value is even, the value is divided by 2.
