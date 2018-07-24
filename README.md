@@ -37,7 +37,7 @@ A folder consisting very basic java code
   * [RandomTriangle](https://github.com/RandyKoiSA/JavaPractice/tree/master/RandomTriangle)
   * [RandomRightTriangles](https://github.com/RandyKoiSA/JavaPractice/tree/master/RandomRightTriangles)
   * [SierpinskiTriangle](https://github.com/RandyKoiSA/JavaPractice/tree/master/SierpinskiTriangle)
-  * [Graphinglines](https://github.com/RandyKoiSA/JavaPractice/tree/master/GraphingLines)
+  * [GraphPaper](https://github.com/RandyKoiSA/JavaPractice/tree/master/GraphPaper)
   * [ForestTrees](https://github.com/RandyKoiSA/JavaPractice/tree/master/ForestTrees)
   * [ImageDemo](https://github.com/RandyKoiSA/JavaPractice/tree/master/ImageDemo)
   * [MotivationPoster](https://github.com/RandyKoiSA/JavaPractice/tree/master/MotivationPoster)
