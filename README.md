@@ -47,7 +47,7 @@ A folder consisting very basic java code
   * FlickerPhrase
   * DistanceFormula
 * Projects
-  * Blackjack
+  * [Blackjack](https://github.com/RandyKoiSA/JavaPractice/tree/master/Blackjack)
 
 # IDE
 After a few codes with just notepad++, I finally ended up using [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
