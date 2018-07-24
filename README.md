@@ -1,8 +1,8 @@
-## JavaPractice
+# JavaPractice
 
 A folder consisting very basic java code
 
-#  Quick project type reference
+##  Quick project type reference
 * Keyboard Input
   * AskingQuestions
   * ForgetfulMachine
@@ -48,8 +48,8 @@ A folder consisting very basic java code
 * Projects
   * Blackjack
 
-## IDE
+# IDE
 After a few codes with just notepad++, I finally ended up using [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 
-## Where i'm coding at
+# Where i'm coding at
 I'm currently using a website, programmingbydoing, that gives projects and quick explanation of how java works [here](https://programmingbydoing.com/)
