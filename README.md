@@ -35,7 +35,7 @@ A folder consisting very basic java code
   * [ClockFace](https://github.com/RandyKoiSA/JavaPractice/tree/master/ClockFace)
   * [BoringTriangle](https://github.com/RandyKoiSA/JavaPractice/tree/master/BoringTriangle)
   * [RandomTriangle](https://github.com/RandyKoiSA/JavaPractice/tree/master/RandomTriangle)
-  * [RandomRightTriangles](https://github.com/RandyKoiSA/JavaPractice/tree/master/RandomRightTriangle)
+  * [RandomRightTriangles](https://github.com/RandyKoiSA/JavaPractice/tree/master/RandomRightTriangles)
   * [SierpinskiTriangle](https://github.com/RandyKoiSA/JavaPractice/tree/master/SierpinskiTriangle)
   * [Graphinglines](https://github.com/RandyKoiSA/JavaPractice/tree/master/GraphingLines)
   * [ForestTrees](https://github.com/RandyKoiSA/JavaPractice/tree/master/ForestTrees)
