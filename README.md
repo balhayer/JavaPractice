@@ -3,22 +3,22 @@
 A folder consisting very basic java code
 
 ##  Quick project type reference
-[LATER INSERT LINK TO ALL THE PROJECT FOR QUICK ACCESS]
+
 * Keyboard Input
-  * [AskingQuestions](https://github.com/RandyKoiSA/JavaPractice/tree/master/AskingQuestions)
-  * [ForgetfulMachine](https://github.com/RandyKoiSA/JavaPractice/tree/master/ForgetfulMachine)
-  * [BMIcalculator](https://github.com/RandyKoiSA/JavaPractice/tree/master/BMIcalculator)
+  * AskingQuestions
+  * ForgetfulMachine
+  * BMIcalculator
 * If statements
-  * [HowOldAreYou](https://github.com/RandyKoiSA/JavaPractice/tree/master/HowOldAreYou)
-  * [SpacingBoxing](https://github.com/RandyKoiSA/JavaPractice/tree/master/SpacingBoxing)
-  * [ModulusAnimationSymbols](https://github.com/RandyKoiSA/JavaPractice/tree/master/ModulusAnimationSymbols)
-  * [ModulusAnimation](https://github.com/RandyKoiSA/JavaPractice/tree/master/ModulusAnimation)
-  * [ModulusAnimationWorm](https://github.com/RandyKoiSA/JavaPractice/tree/master/ModulusAnimationWorm)
+  * HowOldAreYou
+  * SpacingBoxing
+  * ModulusAnimationSymbols
+  * ModulusAnimation
+  * ModulusAnimationWorm
 * GUIs
-  * [BoringWindow](https://github.com/RandyKoiSA/JavaPractice/tree/master/BoringWindow)
-  * [TwoQuestion](https://github.com/RandyKoiSA/JavaPractice/tree/master/TwoQuestion)
-  * [FrameWithPanel](https://github.com/RandyKoiSA/JavaPractice/tree/master/FrameWithPanel)
-  * [QuickAdventure](https://github.com/RandyKoiSA/JavaPractice/tree/master/QuickAdventure)
+  * BoringWindow
+  * TwoQuestion
+  * FrameWithPanel
+  * QuickAdventure
 * Random Numbers
   * [Randomness](https://github.com/RandyKoiSA/JavaPractice/tree/master/Randomness)
   * [MagicEight](https://github.com/RandyKoiSA/JavaPractice/tree/master/MagicEight)
