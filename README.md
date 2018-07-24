@@ -45,7 +45,7 @@ A folder consisting very basic java code
 * Functions
   * PictureMenu
   * FlickerPhrase
-  * DistanceFormula
+  * [DistanceFormula](https://github.com/RandyKoiSA/JavaPractice/tree/master/DistanceFormula)
 * Projects
   * [Blackjack](https://github.com/RandyKoiSA/JavaPractice/tree/master/Blackjack)
 
