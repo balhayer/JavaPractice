@@ -36,6 +36,15 @@ A folder consisting very basic java code
   * RandomTriangles
   * RandomRightTriangles
   * SierpinskiTriangle
+  * Graphinglines
+  * ForestTrees
+  * ImageDemo
+  * MotivationPoster
+  * PolygonDemo
+* Functions
+  * PictureMenu
+  * FlickerPhrase
+  * DistanceFormula
 * Projects
   * Blackjack
 
