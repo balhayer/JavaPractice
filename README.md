@@ -51,7 +51,7 @@ A folder consisting very basic java code
   * [AreaCalculator](https://github.com/RandyKoiSA/JavaPractice/tree/master/AreaCalculator)
 * Projects
   * [Blackjack](https://github.com/RandyKoiSA/JavaPractice/tree/master/Blackjack)
-*Nested Loops
+* Nested Loops
   * [BasicNestedLoop](https://github.com/RandyKoiSA/JavaPractice/tree/master/BasicNestedLoop)
 * File Input and Output
   * [HighScore](https://github.com/RandyKoiSA/JavaPractice/tree/master/HighScore)
