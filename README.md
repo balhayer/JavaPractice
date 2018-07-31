@@ -47,7 +47,7 @@ A folder consisting very basic java code
   * [FlickerPhrase](https://github.com/RandyKoiSA/JavaPractice/tree/master/FlickerPhrase)
   * [DistanceFormula](https://github.com/RandyKoiSA/JavaPractice/tree/master/DistanceFormula)
   * [KeychainsForSale](https://github.com/RandyKoiSA/JavaPractice/tree/master/KeychainsForSale)
-  * [Evenness](https://github.com/RandyKoiSA/JavaPractice/tree/master/Evenness)
+  * [EvennessFunction](https://github.com/RandyKoiSA/JavaPractice/tree/master/EvennessFunction)
   * [AreaCalculator](https://github.com/RandyKoiSA/JavaPractice/tree/master/AreaCalculator)
 * Projects
   * [Blackjack](https://github.com/RandyKoiSA/JavaPractice/tree/master/Blackjack)
