@@ -82,6 +82,7 @@ added
 * DisplayingAFile
 * BasicNestedLoop
 * AreaCalculator
+Did not add IMAGE to the files yet for easy reference to how the program works
 
 ## July 23, 2018 Patch 1.0
 adding projects
