@@ -61,6 +61,17 @@ A folder consisting very basic java code
   * [LittlePuzzle](https://github.com/RandyKoiSA/JavaPractice/tree/master/LittlePuzzle)
   * [readingProject](https://github.com/RandyKoiSA/JavaPractice/tree/master/readingProject)
   * [FileText](https://github.com/RandyKoiSA/JavaPractice/tree/master/FileText)
+  * [VowelCapitalizaton](https://github.com/RandyKoiSA/JavaPractice/tree/master/VowelCapitalization)
+* Arrays
+  * [BasicArrays0](https://github.com/RandyKoiSA/JavaPractice/tree/master/BasicArrays0)
+  * [BasicArray3](https://github.com/RandyKoiSA/JavaPractice/tree/master/BasicArray3)
+  * [BasicArray1](https://github.com/RandyKoiSA/JavaPractice/tree/master/BasicArray1)
+  * [CopyArrays](https://github.com/RandyKoiSA/JavaPractice/tree/master/CopyArrays)
+  * [GradeInFile](https://github.com/RandyKoiSA/JavaPractice/tree/master/GradeInFile)
+  * [FindingValueInArray](https://github.com/RandyKoiSA/JavaPractice/tree/master/FindingValueInArray)
+  * [FindingLargestValue](https://github.com/RandyKoiSA/JavaPractice/tree/master/FindingLargestValue)
+  * [TicTacToe](https://github.com/RandyKoiSA/JavaPractice/tree/master/TicTacToe)
+  * [ParallelArrays](https://github.com/RandyKoiSA/JavaPractice/tree/master/ParallelArrays)
 
 # IDE
 After a few codes with just notepad++, I finally ended up using [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
@@ -69,8 +80,23 @@ After a few codes with just notepad++, I finally ended up using [IntelliJ IDEA](
 I'm currently using a website, programmingbydoing, that gives projects and quick explanation of how java works [here](https://programmingbydoing.com/)
 
 # Update
+## July 31, 2018 Patch 3.0
+Images for patch 2.0 project has not been added yet.
+Images for patch 3.0 projects have yet to be added.
+added projects:
+* VowelCapitalization
+* TicTacToe
+* ParallelArrays
+* GradeInFile
+* FindingValueInArray
+* FindingLargestValue
+* CopyArrays
+* BasicArrays0
+* BasicArray3
+* BasicArray1
+
 ## July 30, 2018 Patch 2.0
-added 
+added projects: 
 * SummingThreeNumbers
 * SimpleFileInput
 * readingProject
