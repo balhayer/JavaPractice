@@ -68,7 +68,7 @@ A folder consisting very basic java code
   * [BasicArray1](https://github.com/RandyKoiSA/JavaPractice/tree/master/BasicArray1)
   * [CopyArrays](https://github.com/RandyKoiSA/JavaPractice/tree/master/CopyArrays)
   * [GradeInFile](https://github.com/RandyKoiSA/JavaPractice/tree/master/GradeInFile)
-  * [FindingValueInArray](https://github.com/RandyKoiSA/JavaPractice/tree/master/FindingValueInArray)
+  * [FindValueInArray](https://github.com/RandyKoiSA/JavaPractice/tree/master/FindValueInArray)
   * [FindingLargestValue](https://github.com/RandyKoiSA/JavaPractice/tree/master/FindingLargestValue)
   * [TicTacToe](https://github.com/RandyKoiSA/JavaPractice/tree/master/TicTacToe)
   * [ParallelArrays](https://github.com/RandyKoiSA/JavaPractice/tree/master/ParallelArrays)
@@ -88,7 +88,7 @@ added projects:
 * TicTacToe
 * ParallelArrays
 * GradeInFile
-* FindingValueInArray
+* FindValueInArray
 * FindingLargestValue
 * CopyArrays
 * BasicArrays0
